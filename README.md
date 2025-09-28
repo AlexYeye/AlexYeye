@@ -37,9 +37,9 @@ Olá! Eu sou **Alex**, um desenvolvedor apaixonado por tecnologia, programação
   </a>
 </div>
 
-<div align="left">
+<!--<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexYeye&theme=maroongold" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ---
 
