@@ -30,8 +30,8 @@ Olá! Eu sou **Alex**, um desenvolvedor apaixonado por tecnologia, programação
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/AlexYeye">
+<div style="display: flex; justify-content: center;">
+  <a href="https://github.com/AlexYeye" style="display: flex; gap: 10px;">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AlexYeye&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true"/>
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexYeye&layout=compact&langs_count=6&theme=maroongold"/>
   </a>
